@@ -4592,10 +4592,6 @@ a.list-group-item-danger.active, button.list-group-item-danger.active, a.list-gr
 .panel-body {
     padding:15px
 }
-.panel-body-list {
-    padding:15px;
-    float:right;
-}
 .panel-heading {
     padding:10px 15px;
     border-bottom:1px solid transparent;
